@@ -1,11 +1,2 @@
-# botp
-Electron ile ufak bir bot paneli...
-
-# Nasıl indirilir?
-```
-1- git clone https://github.com/AhmetEsad/botp
-2- cd botp
-3- npm install
-4- ayarlar.json'u kendinize göre düzenleyin. (TOKEN kısmına tokeniniz gibi)
-5- npm start
-```
+# Discountinued
+This was my first electron app... It doesn't do much, so I'm not going to continue.
